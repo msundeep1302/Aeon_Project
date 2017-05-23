@@ -1,0 +1,223 @@
+.main {
+    width:100%;
+    height:auto;
+    background-color:#E6DEDC;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    margin-top: 50px;
+    
+}
+
+.form-group{
+    margin-top: 10px;
+    color:#8c0000;
+    font-size: 20px;
+    
+}
+
+.register{
+    margin-top: 10px;
+    color:#8c0000;
+    font-size: 18px !important;
+    font-family: cursive;
+}
+
+.sign{
+    margin-left: 20%;
+    color:#882525;
+    font-family: cursive;
+    
+}
+
+.btn1{
+    margin-top:10px;
+    font-family: cursive;
+}
+
+.user{
+    font-family: cursive;
+}
+
+.icon{
+    font-family: cursive;
+    color:#8c0000;
+    font-size: 19px;
+}
+
+.icon1{
+    font-family:cursive;
+    color:black;
+    font-size: 17px;
+}
+
+#sub{
+    font-size: 15px;
+    font-family: cursive;
+    font-weight:bolder;
+}
+
+#sub1{
+    font-size: 19px;
+    font-family: cursive;
+    margin-left: 20%;
+    font-weight: bolder;
+}
+
+echo{
+    margin:0px;
+    color: red;
+    margin-top:70px;
+    font-size: 40px;
+}
+
+@media only screen and (min-width:480px){
+    .main {
+        width:100%;
+        height:auto;
+        background-color:#E6DEDC;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        margin-top: 50px;
+        }
+    .form-group{
+        margin-top: 10px;
+        color:#8c0000;
+        font-size: 20px;
+    
+        }
+
+    .register{
+        margin-top: 10px;
+        color:#8c0000;
+        font-size: 20px !important;
+        font-family: cursive;
+            }
+
+    .sign{
+        margin-left: 20%;
+        color:#882525;
+        font-family: cursive;
+    
+        }
+
+    .btn1{
+        margin-top:10px;
+        font-family: cursive;
+        }
+
+    .user{
+        font-family: cursive;
+        }
+
+    .icon{
+        font-family: cursive;
+        color:#8c0000;
+        font-size: 27px;
+        }
+
+    .icon1{
+        font-family:cursive;
+        color:black;
+        font-size: 17px;
+        }
+
+    #sub{
+        font-size: 21.50px;
+        font-family: cursive;
+        font-weight:bolder;
+        }
+
+    #sub1{
+        font-size: 28px;
+        font-family: cursive;
+        margin-left: 20%;
+        font-weight: bolder;
+        }
+
+    echo{
+        margin:0px;
+        color: red;
+        margin-top:70px;
+        font-size: 40px;
+        }
+}
+
+@media only screen and (min-width:768px){
+    .main {
+        width:100%;
+        height:auto;
+        background-color:#E6DEDC;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        margin-top: 50px;
+        padding-bottom: 280px !important;
+            }
+
+    .form-group{
+        margin-top: 10px;
+        color:#8c0000;
+        font-size: 20px;
+    
+            }
+
+    .register{
+        margin-top: 10px;
+        color:#8c0000;
+        font-size: 20px !important;
+        font-family: cursive;
+            }
+
+    .sign{
+        margin-left: 20%;
+        color:#882525;
+        font-family: cursive;
+    
+        }
+
+    .btn1{
+        margin-top:10px;
+        font-family: cursive;
+        }
+
+    .user{
+        font-family: cursive;
+        }
+
+    .icon{
+        font-family: cursive;
+        color:#8c0000;
+        font-size: 30px;
+        }
+
+    .icon1{
+        font-family:cursive;
+        color:black;
+        font-size: 17px;
+        }
+
+    #sub{
+        font-size: 21.50px;
+        font-family: cursive;
+        font-weight:bolder;
+        }
+
+    #sub1{
+        font-size: 28px;
+        font-family: cursive;
+        margin-left: 20%;
+        font-weight: bolder;
+        }
+
+    echo{
+        margin:0px;
+        color: red;
+        margin-top:70px;
+        font-size: 40px;
+        }
+    
+}
+
+
